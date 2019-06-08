@@ -1,3 +1,5 @@
+![](https://i.imgur.com/1euHmQQ.png)
+
 # Настройка параметров
 
 - `let access_token = "token";` - Заменяем **'token'** на токен страницы или токен группы.

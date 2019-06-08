@@ -1,4 +1,4 @@
-![](https://i.imgur.com/1euHmQQ.png)
+![](https://i.imgur.com/iUcn1RY.png)
 
 # Настройка параметров
 
